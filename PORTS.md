@@ -5,8 +5,8 @@ Muse assigns. Collisions are a bug — check here before handing out a port.
 
 | Port | Node   | Machine              | Joined     | Status |
 |------|--------|----------------------|------------|--------|
-| 2222 | proart | ProArt laptop (GPU)  | 2026-10-04 | up     |
-| 2223 | kimi   | Kimi cloud box       | 2026-10-04 | dark   |
+| 2222 | proart | ProArt laptop (GPU)  | 2026-10-04 | down at last check 2026-10-13 |
+| 2223 | kimi   | Kimi cloud box       | 2026-10-04 | up     |
 | 2224 | hp     | HP WSL (experiment)  | 2026-10-07 | dark   |
 
 Next free: **2225**.
